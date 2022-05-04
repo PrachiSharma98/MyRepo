@@ -114,3 +114,5 @@ The advantages of Garbage Collection in Java are:
 
 It makes java memory-efficient because the garbage collector removes the unreferenced objects from heap memory.
 It is automatically done by the garbage collector(a part of JVM), so we don’t need extra effort.
+***********************************************************************************************************
+A Wrapper class is a class which contains the primitive data types (int, char, short, byte, etc). In other words, wrapper classes provide a way to use primitive data types (int, char, short, byte, etc) as objects. These wrapper classes come under java. util package.
