@@ -1,0 +1,3 @@
+HashMap in Java works on hashing principles. It is a data structure that allows us to store object and retrieve it in constant time O(1) provided we know the key. In hashing, hash functions are used to link keys and values in HashMap. Objects are stored by the calling put(key, value) method of HashMap and retrieved by calling the get(key) method. When we call the put method, the hashcode() method of the key object is called so that the hash function of the map can find a bucket location to store the value object, which is actually an index of the internal array, known as the table.
+
+Read more: https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html#ixzz7SJfliAKQ
